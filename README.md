@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franklin0915
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning mysql and php
-- 💞️ I’m looking to collaborate on a big project 
+- 🌱 I’m currently building my own systems
+- 💞️ I’m looking to deploy this big project 
 - 📫 How to reach me franklinokrah465@gmail.com 
 
 <!---
